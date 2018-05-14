@@ -1,5 +1,5 @@
-{
-  "name": "ml",
+﻿{
+  "name": "mlsample",
   "version": "3.2.0",
   "main": [
     "dist/ml.js",
